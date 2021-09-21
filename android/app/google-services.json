@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805182466030",
+    "firebase_url": "https://eczane-1a3d7.firebaseio.com",
+    "project_id": "eczane-1a3d7",
+    "storage_bucket": "eczane-1a3d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805182466030:android:592b26efc17b55171190ff",
+        "android_client_info": {
+          "package_name": "com.example.eczane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805182466030-lrfkm6q8ovtjvi22js9g8i021b0urjd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR5awK4LdLI8XaoHQMqCkcTkYzyVH1X84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805182466030-lrfkm6q8ovtjvi22js9g8i021b0urjd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
